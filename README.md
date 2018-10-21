@@ -8,6 +8,6 @@ Segmentation Tree
   
   
   
-
+---------------------------------
 
 Dynamic Programming Optimization:
