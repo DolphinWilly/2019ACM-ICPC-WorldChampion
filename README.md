@@ -1,9 +1,8 @@
 # 2019ACM-ICPC-WorldChampion
 
 Content
-  . Convex Hull Dynamic Programming
-  . Segmentation Tree
-  .
+Convex Hull Dynamic Programming
+Segmentation Tree
   
   
   
